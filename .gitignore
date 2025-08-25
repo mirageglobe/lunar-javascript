@@ -3,3 +3,11 @@
 node_modules/
 package-lock.json
 .DS_Store
+
+# ===================
+# aider gitignore
+# ===================
+
+.aider*
+!.aider.conf.yml
+!.aiderignore
